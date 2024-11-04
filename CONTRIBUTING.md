@@ -1,10 +1,10 @@
 # Contributing Guidelines
 
-...
+Feel free to contribute by creating a new branch or forking the repository and submitting a pull request.
 
 # Licensing
 
-...
+see [LICENSE](LICENSE)
 
 
 # Developer Certification of Origin (DCO)
@@ -71,3 +71,5 @@ fi
 ```
 
 Placing this script into a file called `.git/hooks/commit-msg` and making it executable (e.g. using `chmod a+x .git/hooks/commit-msg` on unixoid operating systems) will prevent commits without a sign-off.
+
+> Hint: This cannot be set up as a global hook, as it needs to be in the `.git/hooks` directory of the repository you want to enforce the sign-off in.
