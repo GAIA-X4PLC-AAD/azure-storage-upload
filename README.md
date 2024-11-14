@@ -35,7 +35,7 @@ Possible supported azure storage names and existing containers are:
 
 If you need an additional container in the `msgmetadatastorage` please reach out to msg.
 
-Please find additional information regarding the `msgedcstorage` (here)[https://github.com/GAIA-X4PLC-AAD/edc-blockchain-broker/blob/fix/issue53/README_AssetRegistration_Transfer.md].
+Please find additional information regarding the `msgedcstorage` [here](https://github.com/GAIA-X4PLC-AAD/edc-blockchain-broker/blob/fix/issue53/README_AssetRegistration_Transfer.md).
 
 ## License
 see [LICENSE](LICENSE) file
