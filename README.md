@@ -6,7 +6,6 @@ This repository should show you how to browse and upload files to the azure stor
 
 ## Scripts
 
-### General
 Please refer to the readme files in the `src` directory for more information.
 
 To access the azure storage, you need to have an **SAS token**. The SAS token can be requested from the msg team.
@@ -35,6 +34,8 @@ Possible supported azure storage names and existing containers are:
   - `triangraphics`
 
 If you need an additional container in the `msgmetadatastorage` please reach out to msg.
+
+Please find additional information regarding the `msgedcstorage` (here)[https://github.com/GAIA-X4PLC-AAD/edc-blockchain-broker/blob/fix/issue53/README_AssetRegistration_Transfer.md]
 
 ## License
 see [LICENSE](LICENSE) file
